@@ -1,0 +1,6 @@
+# Generated videos
+*.avi
+
+# Unfinished
+radix_sort.py
+bitonic_sort.py
